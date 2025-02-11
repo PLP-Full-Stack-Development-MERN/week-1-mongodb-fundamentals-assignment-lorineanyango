@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "65e1a1c7d6b8f9a5f0d5c201"
+  },
+  "userId": {
+    "$oid": "65e1a1c7d6b8f9a5f0d5a001"
+  },
+  "products": [
+    {
+      "productId": {
+        "$oid": "65e1a1c7d6b8f9a5f0d5b101"
+      },
+      "quantity": 1
+    },
+    {
+      "productId": {
+        "$oid": "65e1a1c7d6b8f9a5f0d5b102"
+      },
+      "quantity": 2
+    }
+  ],
+  "totalAmount": 185.97,
+  "status": "Processing",
+  "orderDate": {
+    "$date": "2025-02-08T10:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65e1a1c7d6b8f9a5f0d5c202"
+  },
+  "userId": {
+    "$oid": "65e1a1c7d6b8f9a5f0d5a002"
+  },
+  "products": [
+    {
+      "productId": {
+        "$oid": "65e1a1c7d6b8f9a5f0d5b103"
+      },
+      "quantity": 1
+    }
+  ],
+  "totalAmount": 39.99,
+  "status": "Shipped",
+  "orderDate": {
+    "$date": "2025-02-07T15:30:00.000Z"
+  }
+}]

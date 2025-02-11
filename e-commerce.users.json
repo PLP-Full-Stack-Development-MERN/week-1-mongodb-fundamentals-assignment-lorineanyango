@@ -1,0 +1,18 @@
+[{
+  "_id": {
+    "$oid": "65e1a1c7d6b8f9a5f0d5a001"
+  },
+  "name": "John Doe",
+  "email": "john.doe@example.com",
+  "address": "123 Elm Street, New York, USA",
+  "phone": "+1 555 1234"
+},
+{
+  "_id": {
+    "$oid": "65e1a1c7d6b8f9a5f0d5a002"
+  },
+  "name": "Jane Smith",
+  "email": "jane.smith@example.com",
+  "address": "456 Oak Avenue, Los Angeles, USA",
+  "phone": "+1 555 5678"
+}]

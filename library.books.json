@@ -1,0 +1,88 @@
+[{
+  "_id": {
+    "$oid": "67a9e3afa5981a190f4d7944"
+  },
+  "title": "To Kill a Mockingbird",
+  "author": "Harper Lee",
+  "publishedYear": 1960,
+  "genre": "Fiction",
+  "ISBN": "978-0061120084",
+  "rating": 4.5
+},
+{
+  "_id": {
+    "$oid": "67a9e3afa5981a190f4d7945"
+  },
+  "title": "1984",
+  "author": "George Orwell",
+  "publishedYear": 1949,
+  "genre": "Dystopian",
+  "ISBN": "978-0451524935",
+  "rating": 4.5
+},
+{
+  "_id": {
+    "$oid": "67a9e3afa5981a190f4d7946"
+  },
+  "title": "Pride and Prejudice",
+  "author": "Jane Austen",
+  "publishedYear": 1813,
+  "genre": "Romance",
+  "ISBN": "978-1503290563",
+  "rating": 4.5
+},
+{
+  "_id": {
+    "$oid": "67a9e3afa5981a190f4d7947"
+  },
+  "title": "The Catcher in the Rye",
+  "author": "J.D. Salinger",
+  "publishedYear": 1951,
+  "genre": "Fiction",
+  "ISBN": "978-0316769488",
+  "rating": 4.5
+},
+{
+  "_id": {
+    "$oid": "67a9e3afa5981a190f4d7948"
+  },
+  "title": "The Great Gatsby",
+  "author": "F. Scott Fitzgerald",
+  "publishedYear": 1925,
+  "genre": "Fiction",
+  "ISBN": "978-0743273565",
+  "rating": 4.5
+},
+{
+  "_id": {
+    "$oid": "67a9e3afa5981a190f4d7949"
+  },
+  "title": "Moby-Dick",
+  "author": "Herman Melville",
+  "publishedYear": 1851,
+  "genre": "Adventure",
+  "ISBN": "978-1503280786",
+  "rating": 4.5
+},
+{
+  "_id": {
+    "$oid": "67a9e3afa5981a190f4d794a"
+  },
+  "title": "War and Peace",
+  "author": "Leo Tolstoy",
+  "publishedYear": 1869,
+  "genre": "Historical",
+  "ISBN": "978-1420951080",
+  "rating": 4.5
+},
+{
+  "_id": {
+    "$oid": "67a9e3afa5981a190f4d794b"
+  },
+  "title": "The Alchemist",
+  "author": "Paulo Coelho",
+  "publishedYear": 1988,
+  "genre": "Philosophical",
+  "ISBN": "978-0061122416",
+  "rating": 4.5
+}]

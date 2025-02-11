@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "65e1a1c7d6b8f9a5f0d5b101"
+  },
+  "name": "Wireless Mouse",
+  "price": 25.99,
+  "category": "Electronics",
+  "stock": 50
+},
+{
+  "_id": {
+    "$oid": "65e1a1c7d6b8f9a5f0d5b102"
+  },
+  "name": "Bluetooth Headphones",
+  "price": 79.99,
+  "category": "Electronics",
+  "stock": 30
+},
+{
+  "_id": {
+    "$oid": "65e1a1c7d6b8f9a5f0d5b103"
+  },
+  "name": "Laptop Stand",
+  "price": 39.99,
+  "category": "Accessories",
+  "stock": 20
+}]
